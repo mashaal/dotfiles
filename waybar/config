@@ -9,7 +9,7 @@
     "custom/media"
   ],
   "modules-center": [
-    "wlr/workspaces"
+    "hyprland/workspaces"
   ],
   "modules-right": [
     "temperature",
